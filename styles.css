@@ -1,0 +1,64 @@
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+/* Container styles */
+div {
+    margin-bottom: 10px;
+}
+
+/* Paragraph styles */
+p {
+    margin: 0;
+}
+
+/* Label styles */
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Input styles */
+input[type="number"] {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+/* Button styles */
+button {
+    padding: 8px 16px;
+    font-size: 14px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Select styles */
+select {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+/* Image styles */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 10px;
+}
